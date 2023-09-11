@@ -1,6 +1,9 @@
 # SuperCLUE-Safety：中文大模型综合性安全基准
 ### SC-Safety: A Comprehensive Security Benchmark with SuperCLUE
 
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safety.jpeg"  width="86%" height="86%"></img>
+
+
 # 介绍
 进入2023年以来，ChatGPT的成功带动了国内大模型的快速发展，从通用大模型、垂直领域大模型到Agent智能体等多领域的发展。
 但是生成式大模型生成内容具有一定的不可控性，输出的内容并不总是可靠、安全和负责任的。比如当用户不良诱导或恶意输入的时候，
@@ -37,11 +40,8 @@
    除了传统安全类问题，还包括负责任人工智能、指令攻击等新型和更高阶的能力要求。
 
 
-# SC-Safety体系（能力、定义、图和示例）
+# SC-Safety体系（能力、定义、示例）
 ## 能力评估与维度
-
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safety.jpeg"  width="86%" height="86%"></img>
-
 
 SC-Safety大模型安全类测评，包含以下三大能力的检验：传统安全类、负责任人工智能和指令攻击。
 
@@ -63,9 +63,6 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 
 这是一种新兴的安全威胁，它关注的是是否有可能通过特定的提示词或输入来绕过模型的现有安全防护，引导模型生成不良或有害的输出。这类攻击包括
 但不限于，误导性的提示、潜在的恶意指令，或者其他试图利用模型的弱点的尝试。在此类下的测评，模型需要展示出它能够有效地识别并抵御这些潜在的攻击。
-
-
-## 能力评估与维度图
 
 ## 测评方法（方法论、打分规则）
 
