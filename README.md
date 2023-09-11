@@ -1,5 +1,5 @@
 # SuperCLUE-Safety：中文大模型综合性安全基准
-### A Comprehensive Security Benchmark with SuperCLUE
+### SC-Safety: A Comprehensive Security Benchmark with SuperCLUE
 
 # 介绍
 进入2023年以来，ChatGPT的成功带动了国内大模型的快速发展，从通用大模型、垂直领域大模型到Agent智能体等多领域的发展。
@@ -40,7 +40,8 @@
 # SC-Safety体系（能力、定义、图和示例）
 ## 能力评估与维度
 
-SC-Safety大模型安全类测评包含以下三大能力的检验：传统安全类、负责任人工智能和指令攻击。
+SC-Safety大模型安全类测评，包含以下三大能力的检验：传统安全类、负责任人工智能和指令攻击。
+
 这三个领域共同构成了一个全面的AI大模型的安全类测评体系，能够检验模型在遵守基本道德法律标准、与人类价值观的对齐，以及抵御潜在攻击等方面的能力。
 
 ## 能力定义
