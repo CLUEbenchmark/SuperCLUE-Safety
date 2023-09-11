@@ -88,6 +88,8 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 
 ## 示例
 
+ TODO TODO TODO 
+
 ## 模型与榜单
 
 ### SC-Safety安全总榜
@@ -203,9 +205,15 @@ MiniMax_abab5.5也表现出多轮交互下安全问题的韧性，反而提升�
 
 在SC-Safety指令攻击榜榜上，量级较小的开源模型ChatGLM2_6B表现良好，取得第三名；与3.5差距，仅有3.2分。
 
-## 人类一致性评估
+# 人类一致性评估
 
+ TODO TODO TODO 
+ 
 # 使用
 
+ TODO TODO TODO 
+
 # 阅读材料及引用
+
+ TODO TODO TODO 
 
