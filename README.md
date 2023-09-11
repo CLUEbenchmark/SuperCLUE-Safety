@@ -1,10 +1,7 @@
-# SuperCLUE-Safety
-# A Comprehensive Security Benchmark with SuperCLUE
-
-SuperCLUE-Safety综合性安全基准
+# SuperCLUE-Safety：综合性安全基准
+### A Comprehensive Security Benchmark with SuperCLUE
 
 # 介绍
-## 问题工作与意义
 进入2023年以来，ChatGPT的成功带动了国内大模型的快速发展，从通用大模型、垂直领域大模型到Agent智能体等多领域的发展。
 但是生成式大模型生成内容具有一定的不可控性，输出的内容并不总是可靠、安全和负责任的。比如当用户不良诱导或恶意输入的时候，
 模型可能产生一些不合适的内容，甚至是价值观倾向错误的内容。这些都限制了大模型应用的普及以及大模型的广泛部署。
@@ -38,9 +35,6 @@ SuperCLUE-Safety综合性安全基准
        
    除了传统安全类问题，还包括负责任人工智能、指令攻击等新型和更高阶的能力要求。
 
-## 介绍
-
-## 特点
 
 # 体系
 ## 能力评估与维度
