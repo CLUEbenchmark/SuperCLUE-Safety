@@ -93,18 +93,18 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 ### SC-Safety安全总榜
 |序号| 模型名称 |机构| 总得分 | 传统安全类 | 负责任类 | 指令攻击类 | 使用方式|
 |:--------:|:--------:|:--------:|:------:|:--------------:|:----------:|:------------:|:------------:|
-|-|  [GPT-4 ↗](https://openai.com/)   |OpenAI| 87.43 | 84.51 | 91.22 | 86.70 |闭源服务|
-|🏅️| [讯飞星火(v2.0) ↗](https://xinghuo.xfyun.cn/) |科大讯飞| 84.98 | 80.65 | 89.78 | 84.77 |闭源服务|
-|-|  [gpt-3.5-turbo ↗](https://openai.com/) |OpenAI| 83.82 | 82.82 | 87.81 | 80.72 |闭源服务|
-|🥈|  [文心一言 ↗](https://yiyan.baidu.com/welcome) |百度| 81.24 | 79.79 | 84.52 | 79.42 |闭源服务|
-|🥉|  [ChatGLM2_pro ↗](https://chatglm.cn)    |清华&智谱| 79.82 | 77.16 | 87.22 | 74.98 |闭源服务|
-|4|  [ChatGLM2-6B ↗](https://github.com/THUDM/ChatGLM2-6B)    |清华&智谱| 79.43 | 76.53 | 84.36 | 77.45 |开源模型|
-|5|  [Baichuan2_13B_Chat ↗](https://huggingface.co/baichuan-inc/Baichuan2)|百川智能 | 78.78 | 74.7 | 85.87 | 75.86 |开源模型|
-|6|  [Qwen-7B-Chat ↗](https://huggingface.co/Qwen/Qwen-7B-Chat)    |阿里巴巴| 78.64 | 77.49 | 85.43 | 72.77 |开源模型|
-|7|  [OpenBuddy_Llama2_70B ↗](https://huggingface.co/OpenBuddy/openbuddy-llama2-70b-v10.1-bf16)  |OpenBuddy| 78.21 | 77.37 | 87.51 | 69.30 |开源模型|
-|8|   [360智脑(S2_V94) ↗](https://ai.360.cn)  | 76.52| 360 | 71.45 | 85.09 | 73.12 |闭源服务|
-|9|  [Chinese-Alpaca-2-13B ↗](https://huggingface.co/ziqingyang/chinese-alpaca-2-13b)  |Yiming Cui | 75.39 | 73.21 | 82.44 | 70.39 |开源模型|
-|10|   [MiniMax-abab5.5 ↗](https://api.minimax.chat/)    |MiniMax| 71.90 | 71.67 | 79.77 | 63.82 |闭源服务|
+|-|  [GPT-4 ↗](https://openai.com/)   |OpenAI| 87.43 | 84.51 | 91.22 | 86.70 |闭源|
+|🏅️| [讯飞星火(v2.0) ↗](https://xinghuo.xfyun.cn/) |科大讯飞| 84.98 | 80.65 | 89.78 | 84.77 |闭源|
+|-|  [gpt-3.5-turbo ↗](https://openai.com/) |OpenAI| 83.82 | 82.82 | 87.81 | 80.72 |闭源|
+|🥈|  [文心一言 ↗](https://yiyan.baidu.com/welcome) |百度| 81.24 | 79.79 | 84.52 | 79.42 |闭源|
+|🥉|  [ChatGLM2_pro ↗](https://chatglm.cn)    |清华&智谱| 79.82 | 77.16 | 87.22 | 74.98 |闭源|
+|4|  [ChatGLM2-6B ↗](https://github.com/THUDM/ChatGLM2-6B)    |清华&智谱| 79.43 | 76.53 | 84.36 | 77.45 |开源|
+|5|  [Baichuan2_13B_Chat ↗](https://huggingface.co/baichuan-inc/Baichuan2)|百川智能 | 78.78 | 74.7 | 85.87 | 75.86 |开源|
+|6|  [Qwen-7B-Chat ↗](https://huggingface.co/Qwen/Qwen-7B-Chat)    |阿里巴巴| 78.64 | 77.49 | 85.43 | 72.77 |开源|
+|7|  [OpenBuddy_Llama2_70B ↗](https://huggingface.co/OpenBuddy/openbuddy-llama2-70b-v10.1-bf16)  |OpenBuddy| 78.21 | 77.37 | 87.51 | 69.30 |开源|
+|8|   [360智脑(S2_V94) ↗](https://ai.360.cn)  | 76.52| 360 | 71.45 | 85.09 | 73.12 |闭源|
+|9|  [Chinese-Alpaca-2-13B ↗](https://huggingface.co/ziqingyang/chinese-alpaca-2-13b)  |Yiming Cui | 75.39 | 73.21 | 82.44 | 70.39 |开源|
+|10|   [MiniMax-abab5.5 ↗](https://api.minimax.chat/)    |MiniMax| 71.90 | 71.67 | 79.77 | 63.82 |闭源|
 
 注：总得分：计算每一道题目的分数，汇总，并除以总分。文心一言，指ERNIE_3.5_Turbo。
 
