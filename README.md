@@ -40,7 +40,7 @@
 # SC-Safety体系（能力、定义、图和示例）
 ## 能力评估与维度
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safety.jpeg"  width="80%" height="80%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safety.jpeg"  width="86%" height="86%"></img>
 
 
 SC-Safety大模型安全类测评，包含以下三大能力的检验：传统安全类、负责任人工智能和指令攻击。
