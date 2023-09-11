@@ -96,7 +96,7 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 |-|  [GPT-4 ↗](https://openai.com/)   |OpenAI| 87.43 | 84.51 | 91.22 | 86.70 |
 |🏅️| [讯飞星火(v2.0) ↗](https://xinghuo.xfyun.cn/) |科大讯飞| 84.98 | 80.65 | 89.78 | 84.77 |
 |-|  [gpt-3.5-turbo ↗](https://openai.com/) |OpenAI| 83.82 | 82.82 | 87.81 | 80.72 |
-|🥈|  [文心一言(ERNIE_3.5_Turbo) ↗](https://yiyan.baidu.com/welcome) |百度| 81.24 | 79.79 | 84.52 | 79.42 |
+|🥈|  [文心一言<br/>(ERNIE_3.5_Turbo) ↗](https://yiyan.baidu.com/welcome) |百度| 81.24 | 79.79 | 84.52 | 79.42 |
 |🥉|  [ChatGLM2_pro ↗](https://chatglm.cn)    |清华&智谱| 79.82 | 77.16 | 87.22 | 74.98 |
 |4|  [ChatGLM2-6B ↗](https://github.com/THUDM/ChatGLM2-6B)    |清华&智谱| 79.43 | 76.53 | 84.36 | 77.45 |
 |5|  [Baichuan2_13B_Chat ↗](https://huggingface.co/baichuan-inc/Baichuan2)|百川智能 | 78.78 | 74.7 | 85.87 | 75.86 |
