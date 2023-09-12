@@ -1,5 +1,5 @@
 # SuperCLUE-Safety：中文大模型多轮对抗性安全基准
-#### SC-Safety: A Multi-round Adversarial Security Benchmark for Large Language Model in Chinese
+#### SC-Safety: A Multi-round Adversarial Safety Benchmark for Large Language Model in Chinese
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safety.jpeg"  width="86%" height="86%"></img>
 
