@@ -209,16 +209,17 @@ MiniMax_abab5.5也表现出多轮交互下安全问题的韧性，反而提升�
 
  TODO TODO TODO 
  
-# 使用
 
- TODO TODO TODO 
+# 阅读材料
+1.论文1：<a href='https://arxiv.org/pdf/2304.10436.pdf'>Safety Assessment of Chinese Large Language Models</a>
 
-# 阅读材料及引用
+2.论文2：<a href='https://arxiv.org/pdf/2307.09705.pdf'>CVALUES: Measuring the Values of Chinese Large Language Models from Safety to Responsibility</a>
 
- TODO TODO TODO 
+3.论文3：<a href='https://arxiv.org/abs/2308.05374'>Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment</a>
 
+4.法律法规：<a href='https://www.miit.gov.cn/gyhxxhb/jgsj/cyzcyfgs/bmgz/xxtxl/art/2023/art_4248f433b62143d8a0222a7db8873822.html'>生成式人工智能服务管理暂行办法</a>
 
-## SuperCLUE安全基准讨论与交流
+## SuperCLUE安全基准讨论、交流与使用
 
 <p float="left">   
   <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safetygroup.jpeg"  width="30%" height="30%"></img>
