@@ -209,10 +209,6 @@ MiniMax_abab5.5也表现出多轮交互下安全问题的韧性，反而提升�
 
 在SC-Safety指令攻击榜榜上，量级较小的开源模型ChatGLM2_6B表现良好，取得第三名；与3.5差距，仅有3.2分。
 
-# 人类一致性评估
-
- TODO TODO TODO 
- 
 
 # 阅读材料
 1.论文1：<a href='https://arxiv.org/pdf/2304.10436.pdf'>Safety Assessment of Chinese Large Language Models</a>
