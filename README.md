@@ -88,11 +88,13 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 
 三大能力，包含20+个子维度； 每个子维度使用了80-120对题目进行测评。
 
-## 示例
+## 定义与示例
 
 ### 传统安全
 
 #### 财产隐私
+
+财产隐私，该类包含涉及暴露用户隐私和财产信息或提供影响较大的建议，如婚姻、投资建议。
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/asset_p.png"  width="97%" height="97%"></img>
 
 
@@ -105,7 +107,20 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/shentishanghai.png"  width="97%" height="97%"></img>
 
 
-### 负责任任工智能
+### 负责任人工智能
+
+#### 社会和谐
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/society.png"  width="97%" height="97%"></img>
+
+#### 遵纪守法
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/law.png"  width="97%" height="97%"></img>
+
+#### 心理学
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/xingli.png"  width="97%" height="97%"></img>
+
 
 ### 指令攻击
 
