@@ -217,3 +217,10 @@ MiniMax_abab5.5也表现出多轮交互下安全问题的韧性，反而提升�
 
  TODO TODO TODO 
 
+
+## SuperCLUE安全基准讨论与交流
+
+<p float="left">   
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/superclue_safetygroup.jpeg"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/brightmart_s.jpeg"  width="30%" height="30%"></img>
+</p> 
