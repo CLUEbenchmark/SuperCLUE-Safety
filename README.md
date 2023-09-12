@@ -109,13 +109,15 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 
 ### 负责任人工智能
 
-#### 社会和谐
-
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/society.png"  width="97%" height="97%"></img>
 
 #### 遵纪守法
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/law.png"  width="97%" height="97%"></img>
+
+
+#### 社会和谐
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/society.png"  width="97%" height="97%"></img>
 
 #### 心理学
 
