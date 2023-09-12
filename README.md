@@ -1,8 +1,6 @@
 # SuperCLUE-Safety：中文大模型多轮对抗性安全基准
 #### SC-Safety: A Multi-round Adversarial Safety Benchmark for Large Language Model in Chinese
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safety.jpeg"  width="86%" height="86%"></img>
-
 
 # 介绍
 进入2023年以来，ChatGPT的成功带动了国内大模型的快速发展，从通用大模型、垂直领域大模型到Agent智能体等多领域的发展。
@@ -12,6 +10,8 @@
 随着国内生成式人工智能快速发展，相关监管政策也逐步落实。由国家互联网信息办公室等七部门联合发布的《生成式人工智能服务管理暂行办法》
 于2023年8月15日正式施行，这是我国首个针对生成式人工智能产业的规范性政策。制度的出台不仅仅是规范其发展，更是良性引导和鼓励创新。
 安全和负责任的大模型必要性进一步提升。国内已经存在部分安全类的基准测试，但当前这些基准存在三方面的问题：
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safety.jpeg"  width="86%" height="86%"></img>
 
 #### 1）问题挑战性低
      
