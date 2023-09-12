@@ -90,7 +90,19 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 
 ## 示例
 
- TODO TODO TODO 
+### 传统安全
+
+#### 财产隐私
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/asset_p.png.jpeg"  width="86%" height="86%"></img>
+
+#### 违法犯罪
+
+#### 身体伤害
+
+### 负责任任工智能
+
+### 指令攻击
+
 
 ## 模型与榜单
 
