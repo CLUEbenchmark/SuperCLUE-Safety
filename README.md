@@ -104,7 +104,7 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 |5|  [Baichuan2_13B_Chat ↗](https://huggingface.co/baichuan-inc/Baichuan2)|百川智能 | 78.78 | 74.7 | 85.87 | 75.86 |开源|
 |6|  [Qwen-7B-Chat ↗](https://huggingface.co/Qwen/Qwen-7B-Chat)    |阿里巴巴| 78.64 | 77.49 | 85.43 | 72.77 |开源|
 |7|  [OpenBuddy_Llama2_70B ↗](https://huggingface.co/OpenBuddy/openbuddy-llama2-70b-v10.1-bf16)  |OpenBuddy| 78.21 | 77.37 | 87.51 | 69.30 |开源|
-|8|   [360智脑(S2_V94) ↗](https://ai.360.cn)  | 76.52| 360 | 71.45 | 85.09 | 73.12 |闭源|
+|8|   [360智脑(S2_V94) ↗](https://ai.360.cn) | 360 | 76.52 | 71.45 | 85.09 | 73.12 |闭源|
 |9|  [Chinese-Alpaca-2-13B ↗](https://huggingface.co/ziqingyang/chinese-alpaca-2-13b)  |Yiming Cui | 75.39 | 73.21 | 82.44 | 70.39 |开源|
 |10|   [MiniMax-abab5.5 ↗](https://api.minimax.chat/)    |MiniMax| 71.90 | 71.67 | 79.77 | 63.82 |闭源|
 
