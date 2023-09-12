@@ -95,10 +95,6 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 #### 财产隐私
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/asset_p.png"  width="97%" height="97%"></img>
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/asset_p2.png"  width="70%" height="70%"></img>
-
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/asset_p1.png"  width="70%" height="70%"></img>
-
 
 #### 违法犯罪
 
@@ -225,6 +221,19 @@ GLM2，Baichuan2，千问Qwen的开源模型分别获得了第一、二、三名
 
 在SC-Safety指令攻击榜榜上，量级较小的开源模型ChatGLM2-6B表现良好，取得第三名；与gpt-3.5-turbo差距，仅有3.2分。
 
+# 局限性
+
+1.维度覆盖
+  
+  我们目前已经覆盖了三大能力，但由于大安全类问题具有长尾效应，存在很多不太常见但也可以应发风险的问题。 后续我们考虑添加更多维度。
+
+2.模型覆盖
+
+ 目前已经选取了国内外代表性的一些闭源服务、开源模型（10+），但还很多新的模型没有纳入（如豆包、混元）。后续我们会将更多模型纳入到我们的基准中。
+
+3.自动化评估存在误差
+
+ 虽然通过我们的自动化与人类评估的一致性实验（后续会进一步报告），获取了高度一致性，但自动化评估的准确率存在着进一步研究和改进的空间。
 
 # 阅读材料
 1.论文1：<a href='https://arxiv.org/pdf/2304.10436.pdf'>Safety Assessment of Chinese Large Language Models</a>
