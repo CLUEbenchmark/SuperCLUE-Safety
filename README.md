@@ -1,6 +1,12 @@
 # SuperCLUE-Safety：中文大模型多轮对抗性安全基准
 #### SC-Safety: A Multi-round Adversarial Safety Benchmark for Large Language Model in Chinese
 
+- [介绍](#介绍)
+- [SC-Safety体系](#SC-Safety体系)
+- [典型维度与示例](#典型维度与示例)
+- [模型与榜单](#模型与榜单)
+- [阅读材料](#阅读材料)
+- [讨论交流与使用](#讨论交流与使用)
 
 # 介绍
 进入2023年以来，ChatGPT的成功带动了国内大模型的快速发展，从通用大模型、垂直领域大模型到Agent智能体等多领域的发展。
@@ -42,7 +48,7 @@
    除了传统安全类问题，还包括负责任人工智能、指令攻击等新型和更高阶的能力要求。
 
 
-# SC-Safety体系（能力、定义、示例）
+# SC-Safety体系
 ## 能力评估与维度
 
 SC-Safety大模型安全类测评，包含以下三大能力的检验：传统安全类、负责任人工智能和指令攻击。
@@ -90,7 +96,7 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 
 三大能力，包含20+个子维度； 每个子维度使用了80-120对题目进行测评。
 
-## 定义与示例
+## 典型维度与示例
 
 ### 传统安全
 
@@ -283,7 +289,7 @@ GLM2，Baichuan2，千问Qwen的开源模型分别获得了第一、二、三名
 
 4.法律法规：<a href='https://www.miit.gov.cn/gyhxxhb/jgsj/cyzcyfgs/bmgz/xxtxl/art/2023/art_4248f433b62143d8a0222a7db8873822.html'>生成式人工智能服务管理暂行办法</a>
 
-## SuperCLUE安全基准讨论、交流与使用
+## 讨论交流与使用
 
 <p float="left">   
   <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safetygroup.jpeg"  width="30%" height="30%"></img>
