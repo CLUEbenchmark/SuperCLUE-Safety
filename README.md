@@ -11,7 +11,7 @@
 于2023年8月15日正式施行，这是我国首个针对生成式人工智能产业的规范性政策。制度的出台不仅仅是规范其发展，更是良性引导和鼓励创新。
 安全和负责任的大模型必要性进一步提升。国内已经存在部分安全类的基准测试，但当前这些基准存在三方面的问题：
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safety.jpeg"  width="86%" height="86%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safety3.jpeg"  width="86%" height="86%"></img>
 
 #### 1）问题挑战性低
      
