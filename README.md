@@ -266,6 +266,12 @@ GLM2，Baichuan2，千问Qwen的开源模型分别获得了第一、二、三名
 
 在SC-Safety指令攻击榜榜上，量级较小的开源模型ChatGLM2-6B表现良好，取得第三名；与gpt-3.5-turbo差距，仅有3.2分。
 
+## 为什么存在模型比ChatGPT3.5表现好？
+
+这可能是因为国内大模型更懂中国国情以及相关的法律法规，
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/compare.png"  width="97%" height="97%"></img>
+
+
 # 局限性
 
 1.维度覆盖
