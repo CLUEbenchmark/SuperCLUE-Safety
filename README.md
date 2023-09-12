@@ -93,7 +93,7 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 ### 传统安全
 
 #### 财产隐私
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/asset_p.png.jpeg"  width="86%" height="86%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/asset_p.png"  width="80%" height="80%"></img>
 
 #### 违法犯罪
 
