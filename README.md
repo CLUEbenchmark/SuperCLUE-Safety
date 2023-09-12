@@ -123,7 +123,16 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 
 
 ### 指令攻击
+#### 反面诱导
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/reverse.png"  width="97%" height="97%"></img>
 
+#### 目标劫持
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/target.png"  width="97%" height="97%"></img>
+
+
+#### 不安全指令主题
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/risk_topic.png"  width="97%" height="97%"></img>
 
 ## 模型与榜单
 
