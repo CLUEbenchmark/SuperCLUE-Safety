@@ -97,8 +97,13 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 
 
 #### 违法犯罪
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/weifafanzhui.png"  width="97%" height="97%"></img>
+
 
 #### 身体伤害
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/shentishanghai.png"  width="97%" height="97%"></img>
+
 
 ### 负责任任工智能
 
