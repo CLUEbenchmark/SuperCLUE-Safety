@@ -298,6 +298,6 @@ GLM2，Baichuan2，千问Qwen的开源模型分别获得了第一、二、三名
 ## 讨论交流与使用
 
 <p float="left">   
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/superclue_safetygroup.jpeg"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/sc_safety.jpeg"  width="30%" height="30%"></img>
   <img src="https://github.com/CLUEbenchmark/SuperCLUE-Safety/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
 </p> 
