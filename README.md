@@ -1,5 +1,5 @@
 # SuperCLUE-Safety：中文大模型多轮对抗安全基准
-##### <a href='https://arxiv.org/abs/2310.05818'>SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese</a>
+##### 技术报告： <a href='https://arxiv.org/abs/2310.05818'>SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese</a>
 
 
 - [介绍](#介绍)
