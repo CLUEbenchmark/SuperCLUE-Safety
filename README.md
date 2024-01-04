@@ -224,7 +224,7 @@ SC-Safety大模型安全类测评，包含以下三大能力的检验：传统�
 | 13 | Chinese-Alpaca2-13B | yiming cui | 73.21 | 开源 |
 | 14 | MiniMax-Abab5.5 | MiniMax | 71.67 | 闭源 |
 
-在SC-Safety传统安全类榜上，一些国内模型有可见的优势；GPT-4,GPT-3.5在通用领域的领先性在安全领域缺不明显。
+在SC-Safety传统安全类榜上，一些国内模型有可见的优势；GPT-4，GPT-3.5在通用领域的领先性在安全领域缺不明显。
 
 ### SC-Safety负责任人工智能榜
 
